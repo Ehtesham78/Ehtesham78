@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Ehtesham78
-- 👀 I’m interested in technology and coding
-- 🌱 I’m currently learning artificial intelligence and machine learning
-- 📫 you can reach me with my mail id ehasssanaman123@gmail.com or by contact number +91 9625370020
+### 👋 Hi, I'm Ehteshamul Hassan
+- 🎓 Final-year B.Tech CSE (AI-ML)
+- 🧠 Passionate about Artificial Intelligence , Machine Learning and Data Science
+- 📊 Skilled in Python, Machine Learning, Developing AI agents and AI tools and Technologies
+- 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/ehteshamulhassan786/)
+- 
 
 <!---
 Ehtesham78/Ehtesham78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
