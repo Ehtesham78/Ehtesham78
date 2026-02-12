@@ -1,11 +1,12 @@
-### 👋 Hi, I'm Ehteshamul Hassan
-- 🎓 Final-year B.Tech CSE (AI-ML)
-- 🧠 Passionate about Artificial Intelligence , Machine Learning and Data Science
-- 📊 Skilled in Python, Machine Learning, Developing AI agents and AI tools and Technologies
-- 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/ehteshamulhassan786/)
-- 
+<h1 align="center">Hi 👋, I'm Ehteshamul Hassan</h1>
+<h3 align="center">AI & ML Engineer | Data Science | Research | Innovation
+- 🤖 Passionate about Machine Learning, LLMs & Multimodal AI
+- 📊 Love turning data into real-world insights
 
-<!---
-Ehtesham78/Ehtesham78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 LinkedIn: https://www.linkedin.com/in/ehteshamulhassan786/
+📧 Email: ehassanaman123@gmail.com
+
+
+
+
+
